@@ -172,12 +172,12 @@ I'm open to interesting open-source projects, engineering collaborations, and am
 <a href="https://www.linkedin.com/in/iamristaf">LinkedIn</a> ·
 <a href="https://x.com/iamristaf">X</a> ·
 <a href="https://www.instagram.com/iamristaf">Instagram</a> ·
-<a href="https://iamristaf.xyz">Website</a>
+<a href="https://portfolio.iamristaf.in">Website</a>
 
 <a href="https://leetcode.com/iamristaf">LeetCode</a> ·
 <a href="https://codeforces.com/profile/iamristaf">Codeforces</a> ·
-<a href="https://www.youtube.com/@entrorocks">YouTube</a> ·
-<a href="https://sites.google.com/view/entrobooks">Books & Writing</a>
+<a href="https://www.youtube.com/@iamristaf">YouTube</a> ·
+<a href="https://iamristaf.in">Books & Writing</a>
 
 <br>
 

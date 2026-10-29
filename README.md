@@ -94,7 +94,16 @@ A cozy game project focused on gameplay, player progression, and account-linked 
 [Explore the Game](https://cozycolony.iamristaf.in)
 
 </td>
+<td width="50%" valign="top">
 
+### My Portfolio
+
+My Portfolio where all my projects, things are listed that I made on my own.
+
+
+[Explore my portfolio](https://portfolio.iamristaf.in)
+
+</td>
 </tr>
 <tr>
 <td width="50%" valign="top">

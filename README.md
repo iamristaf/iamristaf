@@ -22,7 +22,7 @@ Building software, exploring systems, and turning ideas into products.
 <a href="https://x.com/iamristaf">
   <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X">
 </a>
-<a href="https://iamristaf.xyz">
+<a href="https://portfolio.iamristaf.in">
   <img src="https://img.shields.io/badge/Website-555555?style=flat-square&logo=googlechrome&logoColor=white" alt="Website">
 </a>
 

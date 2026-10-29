@@ -91,20 +91,10 @@ A cozy game project focused on gameplay, player progression, and account-linked 
 
 **Focus:** Game development, data synchronization, and player experience.
 
-[Explore my repositories](https://github.com/iamristaf?tab=repositories)
+[Explore the Game](https://cozycolony.iamristaf.in)
 
 </td>
-<td width="50%" valign="top">
 
-### Meeting Room Booking System
-
-A full-stack application for managing meeting rooms and shared resources, with employee bookings, cancellations, authentication, and administrative controls.
-
-**Stack:** React, Node.js, Express, PostgreSQL, Supabase.
-
-[Explore my repositories](https://github.com/iamristaf?tab=repositories)
-
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
@@ -115,7 +105,7 @@ An independent programming language project exploring a more approachable way to
 
 **Focus:** Language design and developer experience.
 
-[Explore my repositories](https://github.com/iamristaf?tab=repositories)
+[Explore N Language](https://iamristaf.in)
 
 </td>
 <td width="50%" valign="top">
@@ -126,7 +116,7 @@ A digital publishing initiative focused on books, reading, and delivering creati
 
 **Focus:** Product development and digital publishing.
 
-[Explore my repositories](https://github.com/iamristaf?tab=repositories)
+[Explore Nishant Creations](https://iamristaf.in)
 
 </td>
 </tr>

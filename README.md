@@ -1,103 +1,187 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Nishant</h1>
-<h3 align="center">🚀 Passionate Developer | 💻 Tech Enthusiast | 🎶 Music Lover</h3>
+<!--
+  GitHub Profile README
+  Repository: iamristaf/iamristaf
+-->
+
+<div align="center">
+
+# Nishant
+
+### Software Developer · Product Builder · Creator
+
+Building software, exploring systems, and turning ideas into products.
+
+<br>
+
+<a href="https://github.com/iamristaf">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://www.linkedin.com/in/iamristaf">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://x.com/iamristaf">
+  <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X">
+</a>
+<a href="https://iamristaf.xyz">
+  <img src="https://img.shields.io/badge/Website-555555?style=flat-square&logo=googlechrome&logoColor=white" alt="Website">
+</a>
+
+<br><br>
+
+[About](#about) · [Tech Stack](#tech-stack) · [Projects](#selected-projects) · [Beyond Code](#beyond-code) · [Connect](#connect)
+
+</div>
 
 ---
 
-### 🌟 About Me
+## About
 
-- 🌱 I’m currently learning **Web Assembly, Kotlin, and Compiler Design**
-- 💬 Ask me about **Java, Python, C++, and Web Development**
-- 🎯 Goal for 2026:  
-  **Design and build 3 large-scale, real-world projects** with strong architecture, scalability, and performance in mind.  
-  I’m intentionally learning multiple technologies, low-level concepts, and system design to execute them well.
-- ⚡ Fun fact: **I write code with music in the background!**
+I'm Nishant, a computer science student, software developer, and independent product builder.
 
----
+I enjoy working across the software development lifecycle — from designing interfaces and building APIs to working with databases and understanding the systems behind applications.
 
-### 🧭 Philosophy
+I'm particularly interested in backend engineering, full-stack development, programming languages, compilers, and performance-oriented computing.
 
-> *"Jack of all trades, master of none, but sometimes better than master of one."*
+- Currently exploring WebAssembly, Kotlin, compiler design, and system architecture.
+- Building practical applications and experimenting with independent product ideas.
+- Strengthening my understanding of data structures, algorithms, and computer science fundamentals.
+- Interested in open-source collaboration and solving real engineering problems.
 
-I believe in **breadth with direction** — learning widely, then going deep where it matters.
+I believe the best way to learn technology is to build with it.
 
----
+## Tech Stack
 
-### 🛠️ What I’m Currently Exploring
+**Languages**
 
-- Large-scale backend systems & APIs  
-- Performance-oriented programming & low-level concepts  
-- Competitive programming & problem-solving  
-- Language internals, compilers, and runtimes  
-- Building products, not just demos
-
----
-
-### 🗺️ 2026 Roadmap
-
-- 🚧 Build **3 major projects** (end-to-end: idea → architecture → execution)
-- 📚 Strengthen **DSA & algorithms** for problem-solving efficiency
-- 🌐 Contribute meaningfully to **open-source projects**
-- ✍️ Write & publish **technical + creative content**
-- 🚀 Grow as a **software engineer who understands systems deeply**
-
----
-
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://github.com/iamristaf" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/iamristaf" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/iamristaf" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/iamristaf" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://iamristaf.xyz" target="_blank">
-    <img src="https://img.shields.io/badge/Website-0a0a0a?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/iamristaf" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-ffa116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://codeforces.com/profile/iamristaf" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@entrorocks" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,java,c,cpp,php,kotlin&theme=dark" alt="Programming languages">
 </p>
 
----
+**Frontend Development**
 
-### 💻 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,cpp,php,kotlin,git,github,linux,vscode" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind&theme=dark" alt="Frontend technologies">
 </p>
 
----
+**Backend and Databases**
 
-### 🧠 My Books & Writing
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,supabase,firebase&theme=dark" alt="Backend and database technologies">
+</p>
 
-📚 **All my current & upcoming books, series, and writing projects:**  
-👉 https://sites.google.com/view/entrobooks
+**Tools and Platforms**
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,vercel,docker&theme=dark" alt="Developer tools">
+</p>
 
-### 🤝 Open to Collaborate
+*The technologies above reflect my experience and areas of exploration. My proficiency varies across tools and languages.*
 
-- Interesting **open-source projects**
-- Long-term **product ideas**
-- Challenging **engineering problems**
-- Creative + technical collaborations
+## Selected Projects
 
-If it’s meaningful and difficult, I’m in.
+A few projects that represent the kinds of problems and products I'm interested in building.
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<h3 align="center">✨ Thanks for stopping by — feel free to explore, fork, or star ✨</h3>
+### Cozy Colony
+
+A cozy game project focused on gameplay, player progression, and account-linked data synchronization.
+
+**Focus:** Game development, data synchronization, and player experience.
+
+[Explore my repositories](https://github.com/iamristaf?tab=repositories)
+
+</td>
+<td width="50%" valign="top">
+
+### Meeting Room Booking System
+
+A full-stack application for managing meeting rooms and shared resources, with employee bookings, cancellations, authentication, and administrative controls.
+
+**Stack:** React, Node.js, Express, PostgreSQL, Supabase.
+
+[Explore my repositories](https://github.com/iamristaf?tab=repositories)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### N Language
+
+An independent programming language project exploring a more approachable way to work with web technologies.
+
+**Focus:** Language design and developer experience.
+
+[Explore my repositories](https://github.com/iamristaf?tab=repositories)
+
+</td>
+<td width="50%" valign="top">
+
+### Nishant Creations
+
+A digital publishing initiative focused on books, reading, and delivering creative work through applications and online platforms.
+
+**Focus:** Product development and digital publishing.
+
+[Explore my repositories](https://github.com/iamristaf?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+These are starting points, not an exhaustive list. Visit my repositories for more experiments, applications, and open-source work.
+
+## Current Focus
+
+| Area | What I'm exploring |
+|---|---|
+| Full-stack development | End-to-end application architecture |
+| Backend engineering | APIs, authentication, databases, and authorization |
+| Computer science | Data structures, algorithms, and problem solving |
+| Language engineering | Parsing, compilers, runtimes, and WebAssembly |
+| Product development | Reliable, maintainable, user-focused software |
+
+## Beyond Code
+
+My interests extend beyond software engineering.
+
+- **Writing:** Books, fiction, stories, and creative projects.
+- **Music:** Songwriting, original music, and covers.
+- **Content creation:** Technology, history, economics, and ideas.
+- **Entrepreneurship:** Turning independent ideas into products and building projects from the ground up.
+
+I enjoy combining technical thinking with creativity. For me, building things isn't limited to writing code.
+
+## Philosophy
+
+> Jack of all trades, master of none, but sometimes better than master of one.
+
+I believe in breadth with direction: exploring different fields, understanding the fundamentals, and going deeper where it matters.
+
+My goal isn't simply to use more technologies. It's to understand them well enough to solve meaningful problems and build software that lasts.
+
+## Connect
+
+I'm open to interesting open-source projects, engineering collaborations, and ambitious product ideas.
+
+<div align="center">
+
+<a href="https://github.com/iamristaf">GitHub</a> ·
+<a href="https://www.linkedin.com/in/iamristaf">LinkedIn</a> ·
+<a href="https://x.com/iamristaf">X</a> ·
+<a href="https://www.instagram.com/iamristaf">Instagram</a> ·
+<a href="https://iamristaf.xyz">Website</a>
+
+<a href="https://leetcode.com/iamristaf">LeetCode</a> ·
+<a href="https://codeforces.com/profile/iamristaf">Codeforces</a> ·
+<a href="https://www.youtube.com/@entrorocks">YouTube</a> ·
+<a href="https://sites.google.com/view/entrobooks">Books & Writing</a>
+
+<br>
+
+**Build with purpose. Learn continuously. Stay curious.**
+
+</div>
